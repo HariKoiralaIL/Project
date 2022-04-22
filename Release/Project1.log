@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\hari\Desktop\SDL_Pong\Project1\Food.h(34,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\hari\Desktop\SDL_Pong\Project1\Food.h(35,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  1 of 121 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project1.vcxproj -> C:\Users\hari\Desktop\SDL_Pong\Project1\Release\Project1.exe
